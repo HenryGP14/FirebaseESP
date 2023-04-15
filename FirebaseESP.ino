@@ -45,6 +45,9 @@ void setup() {
   } else {
     CausaError();
   }
+
+  //get, getInt, getFloat, getDouble, getBool, getString, getJSON, getArray, getBlob, getFile.
+  //set, setInt, setFloat, setDouble, setBool, setString, setJSON, setArray, setBlob and setFile.
 }
 
 void loop() {
